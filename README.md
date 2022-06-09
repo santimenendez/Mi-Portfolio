@@ -4,11 +4,11 @@ Este es un portfolio creado con HTML, CSS y JavaScript practicando acciones con 
 
 # Autor
 
-* [Linkedin] (https://www.linkedin.com/in/santiago-menendez-453203174/)
+* [Linkedin](https://www.linkedin.com/in/santiago-menendez-453203174/)
 
 # Ver este proyecto sin necesidad de descargar
 
-* [Tienda] https://proyectopersonaltienda.netlify.app
+* [Este Proyecto](https://proyectopersonaltienda.netlify.app)
 
 # Contacto
 
